@@ -3,10 +3,10 @@ namespace Aula31
     public class Mensagem
     {
         public string Texto;
-
+        public Contato Destinatario;
 
         public string Enviar(Contato contato){
-            return $"Mensagem de texto enviada para {contatinhos.destino} "
+            return $"O texto: '{Texto}' foi enviado para o contato: {Destinatario}";
         }
     }
 }
