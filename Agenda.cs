@@ -6,7 +6,7 @@ namespace Aula31
     public class Agenda : lAgenda
     {
         List<Contato> contatos = new List<Contato>();
-        public const string PATH = "Database/Produto.csv";
+        private const string PATH = "Database/Produto.csv";
 
         
 
@@ -54,7 +54,7 @@ namespace Aula31
                 }
             }
         }
-
+    
         public void Listar()
         {
             List<string> linhas = new List<string>();
