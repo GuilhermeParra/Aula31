@@ -12,18 +12,22 @@ namespace Aula31
             Contato p1 = new Contato();
 
             
+
+            
+            
             p1.Nome = "Chris";
             p1.Telefone = "(54)6878-2135";
             
             Mensagem SMS = new Mensagem();
             SMS.Texto = "Salve quebrada";
             SMS.Destinatario = p1;
+            
 
 
 
             contatinhos.Cadastrar(p1);
 
-            contatinhos.Excluir("Linha");
+            contatinhos.Excluir("Chris");
 
             Console.WriteLine(SMS.Enviar(SMS.Destinatario));
             

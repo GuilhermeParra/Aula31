@@ -11,3 +11,16 @@ C:\Users\parra\OneDrive\Documentos\Senai\Aula31\obj\Debug\netcoreapp3.1\Aula31.c
 C:\Users\parra\OneDrive\Documentos\Senai\Aula31\obj\Debug\netcoreapp3.1\Aula31.dll
 C:\Users\parra\OneDrive\Documentos\Senai\Aula31\obj\Debug\netcoreapp3.1\Aula31.pdb
 C:\Users\parra\OneDrive\Documentos\Senai\Aula31\obj\Debug\netcoreapp3.1\Aula31.genruntimeconfig.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\bin\Debug\netcoreapp3.1\Aula31.exe
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\bin\Debug\netcoreapp3.1\Aula31.deps.json
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\bin\Debug\netcoreapp3.1\Aula31.runtimeconfig.json
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\bin\Debug\netcoreapp3.1\Aula31.runtimeconfig.dev.json
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\bin\Debug\netcoreapp3.1\Aula31.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\bin\Debug\netcoreapp3.1\Aula31.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\obj\Debug\netcoreapp3.1\Aula31.csprojAssemblyReference.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\obj\Debug\netcoreapp3.1\Aula31.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\obj\Debug\netcoreapp3.1\Aula31.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\obj\Debug\netcoreapp3.1\Aula31.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\obj\Debug\netcoreapp3.1\Aula31.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\obj\Debug\netcoreapp3.1\Aula31.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Aula31-1\obj\Debug\netcoreapp3.1\Aula31.genruntimeconfig.cache

@@ -6,7 +6,7 @@ namespace Aula31
         public Contato Destinatario;
 
         public string Enviar(Contato contato){
-            return $"O texto: '{Texto}' foi enviado para o contato: {Destinatario}";
+            return $"O texto: '{Texto}' foi enviado para o contato: {contato.Nome}";
         }
     }
 }
